@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucaOstra
-- 👀 I’m interested in social design, modern art, enthopsychology
-- 🌱 I’m currently learning Python, to further explore DS and ML in depth
-- 💞️ I’m looking to collaborate on anything related to DS, ML
+- 👀 I’m interested in data science, social design, smart cities, enthopsychology and all possible combinations of those subjects aiming to make a world a better place
+- 🌱 I’m currently learning SQL, Python and R
+- 💞️ I’m looking to collaborate on anything related to smart cities and climate-related issues
 - 📫 How to reach me here or in Telegram: LucaOstra
 
 <!---

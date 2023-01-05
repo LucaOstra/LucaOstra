@@ -1,6 +1,6 @@
 Hi here ✨ I am Luca
 
-* 🚀 Let's collaborate: I am interested in Data Science and application of ML and AI in social sciences and socially responsible projects. 
+* 🚀 Let's collaborate: I am interested in Data Science and application of ML and AI in social sciences and AI for Good. 
 * 👩🏻‍💻 Work: Currently, I am working in the MIPT — Moscow Institute of Physics and Technology - in the Marketing domain.
 
 

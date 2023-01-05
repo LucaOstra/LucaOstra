@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi here ✨ I am Luca
 
-<!--
-**LucaOstra/LucaOstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🚀 Let's collaborate: I am interested in Data Science and application of ML and AI in social sciences and socially responsible projects. 
+* 👩🏻‍💻 Work: Currently, I am working in the MIPT — Moscow Institute of Physics and Technology - in the Marketing domain.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧮**Tech Stack**
+* 🐍: pandas, numpy, VIZ: matplotlib, seaborn, plotly, folium, ML: sklearn, tensorflow; WebApp: Flask 
+* R
+* SQL
+* HTML, CSS
+* Google Analytics
+* Zignal Labs
+* Git, Github
+* Linux  
+* Spark  
+
+🎶 **Contacts**
+* Telegram: @lucaostra
+* Email: olucasharp@gmail.com
+* Website: https://lucaostra.github.io/o

@@ -19,5 +19,6 @@ Hi here ✨ I am Luca
 * Telegram: @lucaostra
 * Email: olucasharp@gmail.com
 * Website: https://lucaostra.github.io/o
+* Kaggle: https://www.kaggle.com/olgashevtsova
 
-⬇️And my DS projetcs below in the repo ⬇️
+⬇️ And check out my DS projetcs below in the repo ⬇️

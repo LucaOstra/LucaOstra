@@ -1,7 +1,6 @@
-Hi here ✨ I am Luca
+Hi here ✨ I am Olga Luca
 
 🎶 **Contacts**
-* Telegram: @lucaostra
+* Telegram: @SharpMarCom
 * Email: olucasharp@gmail.com
 * Website: https://lucaostra.github.io/o
-* Kaggle: https://www.kaggle.com/olgashevtsova
